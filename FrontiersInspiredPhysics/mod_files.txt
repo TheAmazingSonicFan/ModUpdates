@@ -1,3 +1,5 @@
+delete \disk_main\bb3\#Sonic.ar.00
+delete \disk_main\bb3\#Sonic.arl
 add \disk_main\bb3\#Sonic.ar.00
 add \disk_main\bb3\#Sonic.arl
 add mod_files.txt
